@@ -21,10 +21,10 @@ def run_speedtest():
     
     # Print results
     print(f"🌍 Connectted with most optimal server:")
-    print(f"   📌 Host: {server['host']}")
-    print(f"   🏙️  Location: {server['name']}, {server['country']}")
-    print(f"   🏢 Provider: {server['sponsor']}")
-    print(f"   📡 ISP: {isp}\n")
+    print(f"📌 Host: {server['host']}")
+    print(f"🏙️  Location: {server['name']}, {server['country']}")
+    print(f"🏢 Provider: {server['sponsor']}")
+    print(f" ISP: {isp}\n")
 
     print(f"📶 Ping: {ping} ms")
     print(f"✅ Download speed: {download_speed:.2f} Mbps")
