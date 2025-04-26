@@ -16,6 +16,7 @@ You should see the version number.
 
 # start main.py
 open terminal
+and
 execute "python main.py"
 
-# further when program runs
+# further instructions when program runs
